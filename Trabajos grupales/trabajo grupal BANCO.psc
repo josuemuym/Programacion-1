@@ -77,5 +77,5 @@ Algoritmo Ejercicio2
 				Escribir 'Promedio de retiros:: ', totalRet/i
 			FinSi
 		FinSi
-	Hasta Que opc='F' O opc='f'
+	Hasta Que opc='n' O opc='N'
 FinAlgoritmo
