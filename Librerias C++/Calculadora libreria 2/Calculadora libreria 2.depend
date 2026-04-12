@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1774447534 source:c:\users\bmthb\documents\programacion-1\librerias c++\calculadora libreria 2\src\calculadora.cpp
+	"Calculadora.h"
+
+1774447536 c:\users\bmthb\documents\programacion-1\librerias c++\calculadora libreria 2\include\calculadora.h
+
+1774744057 source:c:\users\bmthb\documents\programacion-1\librerias c++\calculadora libreria 2\main.cpp
+	<iostream>
+	"Calculadora.h"
+

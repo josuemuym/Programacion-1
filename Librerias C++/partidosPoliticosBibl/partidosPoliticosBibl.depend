@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1775660717 source:c:\users\bmthb\documents\programacion-1\librerias c++\partidospoliticosbibl\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"partidosPoliticos.h"
+
+1775660740 c:\users\bmthb\documents\programacion-1\librerias c++\partidospoliticosbibl\include\partidospoliticos.h
+	<iostream>
+	<iomanip>
+	<string>
+	<string.h>
+
+1775538302 source:c:\users\bmthb\documents\programacion-1\librerias c++\partidospoliticosbibl\src\partidospoliticos.cpp
+	"partidosPoliticos.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+
